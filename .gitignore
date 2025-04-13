@@ -1,0 +1,17 @@
+﻿# Ignore build results
+bin/
+obj/
+
+# Ignore Visual Studio config files
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignore log files
+*.log
+
+# Ignore package directories
+packages/
